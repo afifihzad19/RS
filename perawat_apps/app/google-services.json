@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473464982956",
+    "project_id": "utees-42f78",
+    "storage_bucket": "utees-42f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473464982956:android:48c4af4b619407a3d8be09",
+        "android_client_info": {
+          "package_name": "com.example.uts_pasien"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYr5lxd1rMmxP2kdoyhrki7BWC43aG3DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473464982956:android:8c9f42ac1b9d535dd8be09",
+        "android_client_info": {
+          "package_name": "com.example.uts_perawat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYr5lxd1rMmxP2kdoyhrki7BWC43aG3DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
